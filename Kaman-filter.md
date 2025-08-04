@@ -1,6 +1,7 @@
 # 칼만 필터 (Kalman Filter)
 
-칼만 필터(Kalman Filter)는 노이즈가 있는 측정값들로부터 동적 시스템의 상태를 추정하는 수학적 알고리즘입니다. 1960년 루돌프 칼만(Rudolf Kalman)이 개발했으며, 현재 다양한 분야에서 핵심적으로 사용되고 있습니다.
+칼만 필터(Kalman Filter)는 노이즈가 있는 측정값들로부터 동적 시스템의 상태를 추정하는 수학적 알고리즘입니다. 1960년 루돌프 칼만(Rudolf Kalman)이 개발했으며, 현재 다양한 분야에서 핵심적으로 사용되고 있습니다.  
+설명자료: https://kr.mathworks.com/videos/series/understanding-kalman-filters.html
 
 ## 기본 원리
 
